@@ -1,2 +1,2 @@
 # unity-test
-Testing unity usage on Github
+Testing Unity Usage on Github
